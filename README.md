@@ -8,7 +8,7 @@ Cool WebGL Pages & Collections
 
 ### Description
 
-A collection of interesting (for me) web pages created using WebGL (Three.js & CO)
+A collection of interesting (for me) web pages/projects created using WebGL (Three.js & CO)
 
 #### Files
 
